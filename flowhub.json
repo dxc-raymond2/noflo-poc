@@ -1,0 +1,18 @@
+{
+  "id": "fd21d371-344e-43d1-a9e6-cffb5a986264",
+  "user": "b1416d02-5134-479c-ba14-0a1b66b5fc8d",
+  "host": "127.0.0.1",
+  "port": 3569,
+  "label": "Local noflo",
+  "secret": "ycBM8f)R",
+  "permissions": {
+    "ycBM8f)R": [
+      "protocol:component",
+      "protocol:runtime",
+      "protocol:graph",
+      "protocol:network",
+      "component:getsource",
+      "component:setsource"
+    ]
+  }
+}

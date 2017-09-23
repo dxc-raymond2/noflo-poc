@@ -1,0 +1,21 @@
+{
+  "name": "noflo-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "noflo": "^0.8.5",
+    "noflo-core": "^0.4.0",
+    "noflo-filesystem": "^1.1.1",
+    "noflo-nodejs": "^0.8.1",
+    "noflo-webserver": "0.0.6",
+    "noflo-websocket": "^0.1.5",
+    "noflo-xpress": "^0.4.1",
+    "webserver": "^3.1.11"
+  }
+}
